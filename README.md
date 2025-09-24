@@ -42,4 +42,6 @@ Tenho interesse em arquiteturas complexas, automação e otimização de process
 
 ---
 
+<div align="center">
 <img src="https://raw.githubusercontent.com/brunovasconceloss/brunovasconceloss/output/snake.svg" alt="Snake animation" />
+</div>
